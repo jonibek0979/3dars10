@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1900px;
+    margin: 0 auto;
+}
+
+#list {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+#btn {
+   display: none;
+}
+#btnn {
+    display: none;
+ }
+.card__div {
+    border: 2px solid #2ccaf1;
+    margin-left: 60px;
+    margin-top: 60px;
+    height: 500px;
+}
+
+.card__div2 {
+    border: 2px solid #f1bc2c;
+    margin-left: 60px;
+    margin-top: 60px;
+    height: 500px;
+}
+.card__div3 {
+    border: 2px solid #000;
+    margin-left: 60px;
+    margin-top: 60px;
+    height: 500px;
+}
+.card__img {
+    height: 50%;
+}
+
+.card__img2 {
+    height: 50%;
+}
+.card__img3 {
+    height: 50%;
+}
+.card-body {
+    height: 50%;
+}
+
+.card__title {
+    width: 100px;
+    height: 40px;
+
+}
+
+.card__title {
+    width: 100px;
+    height: 40px;
+    color: #fff;
+
+}
+.card__title2 {
+    width: 100px;
+    height: 40px;
+    color: #fff;
+
+}
+.card__title3 {
+    width: 100px;
+    height: 40px;
+    color: #fff;
+
+}
+.card__text {
+    width: 250px;
+    height: 40px;
+    color: #2ccaf1;
+
+}
+.card__text2 {
+    width: 250px;
+    height: 40px;
+    color: #f1bc2c;
+
+}
+.card__text3 {
+    width: 250px;
+    height: 40px;
+    color: #000;
+
+}
+.card__btn {
+    color: #fff;
+
+}
+.card__btn2 {
+    color: #fff;
+
+}
+.card__btn:hover {
+    color: #fff;
+
+}
+.card__btn2:hover {
+    color: #fff;
+
+}
+.card__btn3 {
+    color: #fff;
+
+}
+.card__btn3:hover {
+    color: #fff;
+
+}
